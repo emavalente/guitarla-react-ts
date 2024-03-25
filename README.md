@@ -4,7 +4,7 @@ This is a E-Cart simulation where users can add items to cart, increase and decr
 
 This project was made with Vite + React + Typescript. I use custom hooks too.
 
-- Production link:
+- Production link: https://guitarla-react-ts.vercel.app/
 
 ## Preview:
 
